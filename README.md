@@ -23,10 +23,10 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **botX Sales** | 1.0.3 | [Download](https://github.com/core-usa/botx/releases/download/1.0.0/botX_Sales_1_0_3.apk) |
+| **botX Sales** | 1.0.4 | [Download](https://github.com/core-usa/botx/releases/download/1.0.0/botX_Sales_1_0_4.apk) |
 | **botX KDS** | 1.0.0 | [Download](https://github.com/core-usa/botx/releases/download/1.0.0/botX_KDS_1_0_0.apk) |
 | **botX Manager** | 1.0.0 | [Download](https://github.com/core-usa/botx/releases/download/1.0.0/botX_Manager_1_0_0.apk) |
-| **botX Kiosk** | 1.0.1 | [Download](https://github.com/core-usa/botx/releases/download/1.0.0/botX_Kiosk_1_0_1.apk) |
+| **botX Kiosk** | 1.0.4 | [Download](https://github.com/core-usa/botx/releases/download/1.0.0/botX_Kiosk_1_0_4.apk) |
 
 ### Old Versions
 
