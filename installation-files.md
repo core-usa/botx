@@ -1,5 +1,11 @@
 🎉 Welcome to botX APK Repository!
 
+### Version 3
+
+| Application | Version | Download |
+|---|---|---|
+| **botX Sales** | 3.0.5 | [Download](https://github.com/core-usa/botx/releases/download/3.0.0/botX_Sales_3_0_5.apk) |
+
 ### Version 2
 
 | Application | Version | Download |
