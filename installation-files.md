@@ -1,5 +1,12 @@
 🎉 Welcome to botX APK Repository!
 
+### Version 4
+
+| Application | Version | Download |
+|---|---|---|
+| **botX Sales** | 4.0.13 | [Download](https://github.com/core-usa/botx/releases/download/4.0.0/botX_Sales_4_0_13.apk) |
+| **botX Kiosk** | 4.0.4 | [Download](https://github.com/core-usa/botx/releases/download/4.0.0/botX_Kiosk_4_0_4.apk) |
+
 ### Version 3
 
 | Application | Version | Download |
