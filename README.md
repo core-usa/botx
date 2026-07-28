@@ -1,3 +1,8 @@
+---
+layout: default
+title: botX APK Repository
+---
+
 # 🎉 **Welcome to botX APK Repository!**
 
 Thank you for visiting! Below are all the necessary installation files. We have organized them by version and application to help you find what you need quickly and easily.
