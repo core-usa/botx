@@ -1,1 +1,9 @@
-remote_theme: pages-themes/midnight@v0.2.0
+title: botX
+description: "botX APK Repository"
+theme: jekyll-theme-pages # Base theme
+remote_theme: pages-theme/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Cấu hình để Jekyll nhận diện các file trong thư mục của anh
+include: [assets]
