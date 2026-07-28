@@ -1,0 +1,72 @@
+/* 1. Thiết lập tông màu nền Dark Blue chuyên sâu */
+body.dark-blue-theme {
+    background-color: #050a18 !important; /* Màu nền cực tối để nổi bật màu xanh */
+    color: #e2e8f0 !important;           /* Màu chữ trắng xám nhẹ để đỡ mỏi mắt */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* 2. Custom Header - Sạch sẽ, không có nút View on GitHub */
+.site-header {
+    padding: 40px 0;
+    text-align: center;
+    border-bottom: 1px solid #1e293b;
+}
+
+.site-title a {
+    color: #002BC0 !important; /* Màu xanh của anh */
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+/* 3. Highlight & Links - Sử dụng mã màu #002BC0 */
+a {
+    color: #002BC0 !important;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #4da3ff !important; /* Màu xanh nhạt hơn khi hover */
+    text-decoration: underline;
+}
+
+/* Làm nổi bật các thẻ code/highlight */
+code {
+    background-color: #1e293b !important;
+    color: #60a5fa !important;
+    padding: 0.2em 0.4em;
+    border-radius: 6px;
+    font-size: 85%;
+}
+
+pre {
+    background-color: #0f172a !important;
+    padding: 16px;
+    border-radius: 10px;
+    border: 1px solid #1e293b;
+    overflow: auto;
+}
+
+/* 4. Custom Footer - Chỉ giữ lại bản quyền tối giản */
+.site-footer {
+    margin-top: 60px;
+    padding: 30px 0;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #64748b;
+    border-top: 1px solid #1e293b;
+}
+
+/* 5. Loại bỏ hoàn toàn các thành phần thừa của theme gốc nếu nó cố tình nhảy vào */
+.fork, .github-header, .footer-subtitle, .view-on-github {
+    display: none !important;
+}
