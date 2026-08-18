@@ -24,7 +24,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 | Application | Version | Download |
 |---|---|---|
 | **botX Sales** | 7.0.0 | [Download](https://github.com/core-usa/botx/releases/download/7/botX_Sales_7_0_0.apk) |
-| **botX KDS** | 6.0.1 | [Download](https://github.com/core-usa/botx/releases/download/6.0.0/botX_KDS_6_0_1.apk) |
+| **botX KDS** | 7.0.0 | [Download](https://github.com/core-usa/botx/releases/download/7/botX_KDS_7_0_0.apk) |
 | **botX Kiosk** | 7.0.0 | [Download](https://github.com/core-usa/botx/releases/download/7/botX_Kiosk_7_0_0.apk) |
 | **botX Manager** | 2.0.0 | [Download](https://github.com/core-usa/botx/releases/download/2.0.0/botX_Manager_2_0_0.apk) |
 
