@@ -1,5 +1,12 @@
 🎉 Welcome to botX APK Repository!
 
+### Version 8
+
+| Application | Version | Download |
+|---|---|---|
+| **botX Sales** | 8.0.4 | [Download](https://github.com/core-usa/botx/releases/download/8/botX_Sales_8_0_4.apk) |
+| **botX Kiosk** | 8.0.3 | [Download](https://github.com/core-usa/botx/releases/download/8/botX_Kiosk_8_0_0_3.apk) |
+
 ### Version 7
 
 | Application | Version | Download |
